@@ -1,0 +1,65 @@
+.traveldiv {
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.traveldiv img {
+    width: 100%;
+}
+
+p, a {
+    margin-left: 20px;
+    color:snow;
+}
+#menu {
+    position: sticky;
+    z-index: 99999;
+    top: 0;
+
+}
+.mov {
+    font-size: 20px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+    padding: 6px 22px;
+    margin-bottom: 10px;
+
+
+}
+.mov i {
+    float: right;
+}
+body {
+    background-color:slategrey ;
+}
+h2 {
+    color: bisque;
+}
+#menu a {
+    color:bisque;
+    
+}
+h5 {
+    color: bisque;
+} 
+#Movie1 span{
+color:gold ;
+}
+#Movie2 span{
+    color:gold ;
+    }
+    .bookscolor {
+        color: bisque;
+    }
+#contact iframe {
+        width: 100%;
+    }
+    .info1 {
+        color: bisque;
+        font-size: 35px;
+    }
